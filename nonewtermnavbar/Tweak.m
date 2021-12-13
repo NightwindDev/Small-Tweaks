@@ -12,3 +12,20 @@ void override_didMoveToSuperview(UIToolbar *self, SEL _cmd) {
 __attribute__((constructor)) static void initialize() {
 	MSHookMessageEx(NSClassFromString(@"UIToolbar"), @selector(didMoveToSuperview), (IMP) &override_didMoveToSuperview, (IMP *) &orig_didMoveToSuperview);
 }
+
+/*
+
+## LOGOS EQUIVALENT ##
+
+#import <UIKit/UIKit.h>
+
+%hook UIToolbar
+
+-(void)didMoveToSuperview {
+  self.superview.hidden = true;
+  %orig;
+}
+
+%end
+
+*/
