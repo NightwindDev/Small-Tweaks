@@ -1,3 +1,3 @@
-# SafariFloatingTabBar
+# Small Tweaks
 
-Turn your Safari tabbar into a floating one (kinda like iOS 15)!
+Small tweaks that I've created that aren't big enough for their own repos.
