@@ -1,0 +1,9 @@
+Package: com.nightwind.safarifloatingtabbar
+Name: SafariFloatingTabBar
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Float your Safari Tabbar!
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
