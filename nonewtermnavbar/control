@@ -1,0 +1,9 @@
+Package: com.nightwind.nonewtermnavbar
+Name: NoNewTermNavBar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
