@@ -1,0 +1,9 @@
+Package: com.nightwind.rotatemyapps
+Name: RotateMyApps
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Forcefully rotate your apps!
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
