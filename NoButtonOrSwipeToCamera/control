@@ -2,7 +2,7 @@ Package: com.nightwind.nobuttonorswipetocamera
 Name: NoButtonOrSwipeToCamera
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Disables the button to the camera app on the lockscreen as well as the swipe gesture.
 Maintainer: Nightwind
 Author: Nightwind
 Section: Tweaks
