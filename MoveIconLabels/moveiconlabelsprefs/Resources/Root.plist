@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>30</real>
+			<key>min</key>
+			<integer>0</integer>
+			<key>max</key>
+			<integer>50</integer>
+            <key>key</key>
+            <string>SliderLabel</string>
+            <key>id</key>
+            <string>SliderLabel</string>
+			<key>showValue</key>
+			<true/>
+            <key>defaults</key>
+            <string>com.nightwind.moveiconlabelsprefs</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>MoveIconLabels</string>
+</dict>
+</plist>
