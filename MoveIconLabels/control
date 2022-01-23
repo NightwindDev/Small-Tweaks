@@ -1,0 +1,10 @@
+Package: com.nightwind.moveiconlabels
+Name: MoveIconLabels
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Enables the moving of icon labels on the Y-coordinate!
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Depiction: https://nightwinddev.github.io/depictions/?p=com.nightwind.moveiconlabels
